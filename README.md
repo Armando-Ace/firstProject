@@ -1,0 +1,2 @@
+# firstProject
+First JavaScript project. 
